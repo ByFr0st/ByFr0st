@@ -18,7 +18,7 @@
 - 👨🏽‍💻 I’m currently working on project: [StarkTech](https://starktech.xyz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 📫 How to reach me: byfr0st@hotmail.com;
 
 **Languages and Tools:** 
 
