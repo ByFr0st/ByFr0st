@@ -14,7 +14,7 @@ I also play **the cello** <img src="https://img.icons8.com/color/24/000000/cello
 
 ### Skills & Tools 🖱️
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="25px />
 
 I love discovering languages or frameworks that increase my productivity for my new projects such as **Svelte**, **Golang**, **Flutter** or tools like **Sentry** so feel free to send me a message with your recommendations on Discord or Twitter! 😁
 
