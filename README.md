@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://i.imgur.com/XdktyCV.png" />
+<img width="50%" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/96823309?v=4" />
 
 - 👨🏽‍💻 I’m currently working on project: [StarkTech](https://starktech.xyz);
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
@@ -26,11 +26,7 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:** 
 
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
-  
+<p align="center"> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
